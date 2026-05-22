@@ -77,7 +77,7 @@ A curated list of resources for getting started with building on Ethereum - cont
 - [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game
 - [cryptozombies](https://cryptozombies.io/en/course) - Solidity beginner to intermediate hands-on tutorials
 - [Solidity by example](https://solidity-by-example.org) - An introduction to Solidity with simple examples
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/blockchain-web3/ethereum-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Smart Contract Security
 - [Cyfrin Audits Resources](https://www.cyfrin.io/resources)
